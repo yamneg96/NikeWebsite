@@ -51,11 +51,13 @@ src/
 
 ---
 
+## Deployed Website Link
+```  ```
+---
+
 ## 📝 Some Pages
 
 ![Project Screenshot](./pictures/Hero.png)
-![Project Screenshot](./pictures/PopularProducts.png)
-![Project Screenshot](./pictures/SpecialQuality.png)
 
 ---
 

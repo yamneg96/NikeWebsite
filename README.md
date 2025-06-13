@@ -60,7 +60,7 @@ src/
 
 ## 📝 Customization
 
-![Project Screenshot](./pictures/Hero2.png)
+![Project Screenshot](./pictures/PopularProducts.png)
 - Update project details as needed.
 
 ---

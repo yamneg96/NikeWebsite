@@ -1,12 +1,75 @@
-# React + Vite
+# 🚀 JavaScript Mastery CSS Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to your **CSS Project** built with [Vite](https://vitejs.dev/) + [React](https://react.dev/) + [Tailwind CSS](https://tailwindcss.com/)!  
+Unleash your creativity and master modern front-end development! 🎨✨
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
 
-## Expanding the ESLint configuration
+![Project Screenshot](./pictures/Hero.png)
+<!-- Replace with your actual screenshot file path -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Features
+
+- ⚡ **Vite** for blazing-fast development
+- ⚛️ **React** for building UI components
+- 🌈 **Tailwind CSS** for utility-first styling
+- 💡 Modern JavaScript best practices
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yamneg96/NikeWebsite.git
+   cd NikeWebsite
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser**
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+  components/    # Reusable React components
+  App.jsx        # Main app component
+  index.css      # Tailwind CSS imports
+  ...
+```
+
+---
+
+## 📝 Customization
+
+![Project Screenshot](./pictures/Hero2.png)
+- Update project details as needed.
+
+---
+
+## 🙌 Contributing
+
+Contributions are welcome!  
+Feel free to open issues or submit pull requests. 🚀
+
+---
+
+Made with ❤️ by Yamlak Negash

@@ -15,7 +15,9 @@ import Nav from './components/Nav';
 const App = () => (//parenthesis to immediately invoke(or RETURN) the function unlike curly braces which would require a return statement
   <main className="relative">
     <Nav />
-    <section className="xl:padding-1 wide:padding-r padding-b">
+    <section className="xl:padding-l wide:padding-r padding-b">
+{/* xl:padding-l gave us padding-left for large screens and wide:padding-r gave us padding-right for wide screens
+to get padding for smaller screens we can use padding-x */}
       <Hero />
     </section>
     <section className="padding">

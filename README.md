@@ -5,13 +5,6 @@ Unleash your creativity and master modern front-end development! 🎨✨
 
 ---
 
-## 📸 Screenshot
-
-![Project Screenshot](./pictures/Hero.png)
-<!-- Replace with your actual screenshot file path -->
-
----
-
 ## 🛠️ Features
 
 - ⚡ **Vite** for blazing-fast development
@@ -58,10 +51,11 @@ src/
 
 ---
 
-## 📝 Customization
+## 📝 Some Pages
 
+![Project Screenshot](./pictures/Hero.png)
 ![Project Screenshot](./pictures/PopularProducts.png)
-- Update project details as needed.
+![Project Screenshot](./pictures/SpecialQuality.png)
 
 ---
 

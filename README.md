@@ -55,7 +55,7 @@ src/
 ``` https://deft-kleicha-eb60b3.netlify.app/ ```
 ---
 
-## 📝 Some Pages
+## 📝 Home Page
 
 ![Project Screenshot](./pictures/Hero.png)
 

@@ -52,7 +52,7 @@ src/
 ---
 
 ## Deployed Website Link
-```  ```
+``` https://deft-kleicha-eb60b3.netlify.app/ ```
 ---
 
 ## 📝 Some Pages
